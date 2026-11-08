@@ -1,12 +1,18 @@
-# Python Coursework 🐍
+# Programming Coursework 💻
 
-Welcome to my Python learning journey! Here, I document the courses, assignments, and projects I have completed.
+My learning journey in programming: course exercises, assignments and projects, all in one place.
 
-## 📂 My Courses
-*   *[Phitron-PYTHON](https://github.com/NabilaTarannum/Phitron-PYTHON)* - Object-Oriented Programming & Problem Solving.
-*   *[Phitron-CPP](https://github.com/NabilaTarannum/Phitron-CPP)* - Basic Data Structures and Problem Solving.
-*   *[Phitron-C](https://github.com/NabilaTarannum/Phitron-C)* - Foundational C programming.
-*   *[Assignment](https://github.com/NabilaTarannum/Assignment)* - Completed coursework and exercises.
+## 📂 Contents
 
-## 🚀 Future Projects
-I will continue to add new coursework, Python scripts, and automation projects to this repository as I learn and grow!
+| Folder | What's inside |
+|---|---|
+| [Phitron/PYTHON](Phitron/PYTHON/) | Object-Oriented Programming & Problem Solving (Part IV) |
+| [Phitron/CPP](Phitron/CPP/) | Basic Data Structures & Problem Solving in C++ (Part II) |
+| [Phitron/C](Phitron/C/) | Introduction to Programming Language & Problem Solving in C (Part I) |
+| [Assignment](Assignment/) | Course assignments with solutions |
+
+## 🛠️ Languages
+Python · C++ · C
+
+## 🚀 Coming next
+More coursework, Python scripts and automation projects as I learn and build.
