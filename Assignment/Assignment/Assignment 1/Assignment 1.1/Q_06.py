@@ -1,0 +1,5 @@
+print('H     H   EEEEEEE   L         L           OOOOO  ')
+print("H     H   E         L         L         O       O")
+print('HHHHHHH   EEEE      L         L         O       O')
+print('H     H   E         L         L         O       O')
+print('H     H   EEEEEEE   LLLLLLL   LLLLLLL     OOOOO  ')

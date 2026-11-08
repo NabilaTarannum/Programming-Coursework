@@ -1,0 +1,5 @@
+print('  A     BBBBBBB     CCCCC   DDDD     EEEEEEE')
+print(' A A    B      B   CC       D   D    E      ')
+print('AAAAA   BBBBBBB    C        D    D   EEEE   ')
+print('A   A   B      B   CC       D   D    E      ')
+print('A   A   BBBBBBB     CCCCC   DDDD     EEEEEEE')
